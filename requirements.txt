@@ -1,0 +1,20 @@
+                                                     REQUIREMENTS
+
+1) Python Libraries:
+* Scipy.io
+* OpenCV
+* TensorFlow
+* NumPy
+* Pandas
+* Matplotlib or Seaborn
+* Pytesseract
+
+2) Tools:
+* Jupyter Notebook
+
+                    	                  “Vehicle Movement Analysis and insight generation in a college campus using edge AI”
+                                                          
+
+Intel Unnati Industrial Training Program	                 2024	                   1
+
+
